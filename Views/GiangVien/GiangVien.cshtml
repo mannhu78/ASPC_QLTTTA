@@ -1,0 +1,43 @@
+﻿@model List<MVC_Core_Quan_Ly_Trung_Tam_TA.DataBase.DGiangVien>
+
+<div class="container">
+    <div class="row list_container">
+        <div class="title col-12">Danh sách giảng viên </div>
+        @Html.ActionLink("Thêm : ", "_ThemGiangVien", "GiangVien")
+     
+        
+        <div>Tìm theo mã giảng viên :  </div>
+        <div class="data_grid col-12">
+            <table>
+                <tr>
+                    <th>Mã GV</th>
+                    <th>Họ và tên</th>
+                    <th>Giới tính</th>
+                    <th>Ngày sinh</th>
+                    <th>Địa chỉ</th>
+                    <th>Trình độ</th>
+                    <th>Lớp học</th>
+                </tr>
+                @{
+                    if (Model != null && Model.Any())
+                    {
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.MaGv</td>
+                                <td>@item.TenGv</td>
+                                <td>@item.Gioitinh</td>
+                                <td>@item.Ngaysinh.Value.ToString("dd/MM/yyyy")</td>
+                                <td>@item.Diachi</td>
+                                <td>@item.Trinhdo</td>
+                                <td>@item.MaLh</td>
+                            </tr>
+                        }
+                    }
+
+                }
+            </table>
+        </div>
+
+    </div>
+</div>

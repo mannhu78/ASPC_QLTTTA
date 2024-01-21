@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC_Core_Quan_Ly_Trung_Tam_TA
+build_property.RootNamespace = MVC_Core_Quan_Ly_Trung_Tam_TA
+build_property.ProjectDir = C:\Users\Admin\Documents\MVC_Core_Quan_Ly_Trung_Tam_TA\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Documents\MVC_Core_Quan_Ly_Trung_Tam_TA
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/BaoCaoHocVien/_BaoCaoHocVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFvQ2FvSG9jVmllblxfQmFvQ2FvSG9jVmllbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/GhiDanh/_GhiDanh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2hpRGFuaFxfR2hpRGFuaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/GiangVien/GiangVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhbmdWaWVuXEdpYW5nVmllbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/GiangVien/_ThemGiangVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhbmdWaWVuXF9UaGVtR2lhbmdWaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/HocVien/_HocVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jVmllblxfSG9jVmllbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/KhoaHoc/_KhoaHoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY1xfS2hvYUhvYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/LopHoc/_LopHoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXF9Mb3BIb2MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/FootPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3RQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_HeadPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_LayoutMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-to725ek58m
+
+[C:/Users/Admin/Documents/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jnuy32d8qa

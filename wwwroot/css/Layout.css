@@ -1,0 +1,69 @@
+﻿.head_container {
+    background-color: dimgrey;
+}
+
+.col-5 {
+    text-align: left;
+    font-size: 30px;
+}
+.col-5 a{
+    text-decoration :none;
+    color :black;
+}
+
+.col-6 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.col-3 {
+    background-color: darkgray;
+}
+
+.menu_title p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.menu_item a {
+    text-decoration: none;
+    color: black;
+    margin-bottom: 25px;
+}
+
+    .menu_item a:hover {
+        background-color: slategray;
+    }
+
+.list_container {
+    padding: 5px;
+}
+
+    .list_container .title {
+        font-size: 2em;
+        font-weight: bold;
+    }
+
+    .list_container .data_grid {
+        margin-top: 2px;
+    }
+
+        .list_container .data_grid table {
+            border: 1px solid blue;
+            width: 100%;
+        }
+
+            .list_container .data_grid table tr {
+                border: 1px solid blue;
+            }
+
+            .list_container .data_grid table th {
+                border: 1px solid blue;
+                font-weight: bold;
+                font-size: 1,2em;
+                text-align: center;
+            }
+
+            .list_container .data_grid table td {
+                border: 1px solid blue;
+            }

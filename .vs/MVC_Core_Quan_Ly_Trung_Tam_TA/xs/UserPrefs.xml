@@ -1,32 +1,33 @@
 ﻿<Properties StartupConfiguration="{6D09AE03-55B1-4538-B908-FBB64461F304}|http">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/KhoaHoc/_KhoaHoc.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Views/GiangVien/GiangVien.cshtml" Line="39" Column="21" IsPinned="True" />
+      <File FileName="Views/GiangVien/GiangVien.cshtml" Line="9" Column="46" IsPinned="True" />
       <File FileName="Models/KhoaHocModels.cs" Line="23" Column="59" IsPinned="True" />
-      <File FileName="Views/KhoaHoc/_KhoaHoc.cshtml" Line="26" Column="53" IsPinned="True" />
+      <File FileName="Views/KhoaHoc/_KhoaHoc.cshtml" Line="6" Column="22" IsPinned="True" />
       <File FileName="Models/GiangVienModels.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Views/KhoaHoc/_ThemKhoaHoc.cshtml" />
+      <File FileName="Views/GiangVien/_ThemGiangVien.cshtml" />
+      <File FileName="Models/GiangVienHelper.cs" Line="33" Column="1" />
+      <File FileName="Program.cs" Line="23" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MVC_Core_Quan_Ly_Trung_Tam_TA" expanded="True">
-            <Node name="MVC_Core_Quan_Ly_Trung_Tam_TA">
+            <Node name="MVC_Core_Quan_Ly_Trung_Tam_TA" expanded="True">
               <Node name="Models" expanded="True" />
-              <Node name="Views">
-                <Node name="GiangVien" expanded="True" />
-                <Node name="KhoaHoc" selected="True" />
-              </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MVC__Core__Quan__Ly__Trung__Tam__TA PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MVC__Core__Quan__Ly__Trung__Tam__TA PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

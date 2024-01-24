@@ -27,7 +27,7 @@ namespace MVC_Core_Quan_Ly_Trung_Tam_TA.Controllers
            var items = new GiangVienHelper().getGiangVientItems() ;
             return View(items);
         }
-        public IActionResult _ThemGiangVien(int id)
+        public IActionResult ThemGiangVien(int id)
         {
 
             return View();

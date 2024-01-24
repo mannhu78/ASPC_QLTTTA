@@ -1,0 +1,33 @@
+﻿﻿
+<div class="row container add-new">
+    <div class="title">Thêm mới giảng viên</div>
+    <div class="data">
+        <form asp-action="ThemGiangVien" asp-controller="GiangVien" method="post">
+            <table>
+                <tr>
+                    <td class="col-md-3">Mã Giảng Viên: </td>
+                    <td><input class="col-md-9" type="text" name="MaGV" /></td>
+                </tr>
+                <tr>
+                    <td class="col-md-3">Họ và Tên: </td>
+                    <td><input class="col-md-9" type="text" name="HoTen" /></td>
+                </tr>
+                <tr>
+                    <td class="col-md-3">Sđt: </td>
+                    <td><input class="col-md-9" type="number" name="Sdt" /></td>
+                </tr>
+                <tr>
+                    <td class="col-md-3">Địa chỉ : </td>
+                    <td><input class="col-md-9" type="text" name="DiaChi" /></td>
+                </tr>
+                <tr>
+                    <td class="col-md-3">Trình độ : </td>
+                    <td><input class="col-md-9" type="text" name="Trình độ" /></td>
+                </tr>
+
+
+                <tr><td colspan="2" class="btn"><button type="submit">Thêm</button></td></tr>
+            </table>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,91 @@
+/* UserForm.css */
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: rgb(249, 179, 179);
+  max-width: 80%;
+  min-width: 40%;
+  ;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 40px;
+}
+
+/* Additional styling for better appearance if needed */
+.form-register {
+  padding-top: 5%;
+  font-weight: bold;
+  margin-bottom: 30px;
+  padding-left: 5%;
+  padding-right: 7%;
+}
+
+.form-control {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.form-select {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+/* ... add more styles as needed */
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.row1 {
+  margin-bottom: 10px;
+}
+
+.col {
+  margin-left: 20px;
+}
+
+.form-select {
+  width: auto;
+}
+
+.left-align {
+  font-size: 20px;
+  padding-right: 10px;
+  margin: auto;
+  width: 200px;
+  height: 100%;
+}
+
+.email {
+  max-width: 250px;
+  width: 200px;
+}
+.button {
+  background-color: #69e86d; /* Green background color */
+  color: white; /* White text color */
+  padding: 10px 20px; /* Padding around the text */
+  border: none; /* No border */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Cursor on hover */
+  font-size: 16px; /* Font size */
+}
+
+.button:hover {
+  background-color: #3cfc45; /* Darker green on hover */
+}
+
+.phone-input {
+  max-width: 170px;
+  margin-right: 0px;
+}
+
+.age-options {
+  margin-right: 0px;
+
+}

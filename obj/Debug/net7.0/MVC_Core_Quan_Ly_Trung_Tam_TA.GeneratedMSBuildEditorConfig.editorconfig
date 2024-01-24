@@ -18,12 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Admin\Documents\MVC_QLTTTA
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/Documents/MVC_QLTTTA/Views/BaoCaoHocVien/_BaoCaoHocVien.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFvQ2FvSG9jVmllblxfQmFvQ2FvSG9jVmllbi5jc2h0bWw=
+[C:/Users/Admin/Documents/MVC_QLTTTA/Views/BaoCaoHocVien/BaoCaoHocVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFvQ2FvSG9jVmllblxCYW9DYW9Ib2NWaWVuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/MVC_QLTTTA/Views/GhiDanh/_GhiDanh.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2hpRGFuaFxfR2hpRGFuaC5jc2h0bWw=
+[C:/Users/Admin/Documents/MVC_QLTTTA/Views/GhiDanh/GhiDanh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2hpRGFuaFxHaGlEYW5oLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Documents/MVC_QLTTTA/Views/GiangVien/GiangVien.cshtml]
@@ -34,24 +34,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhbmdWaWVuXFRoZW1HaWFuZ1ZpZW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/MVC_QLTTTA/Views/HocVien/_HocVien.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jVmllblxfSG9jVmllbi5jc2h0bWw=
+[C:/Users/Admin/Documents/MVC_QLTTTA/Views/HocVien/HocVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jVmllblxIb2NWaWVuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Documents/MVC_QLTTTA/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/MVC_QLTTTA/Views/KhoaHoc/_KhoaHoc.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY1xfS2hvYUhvYy5jc2h0bWw=
+[C:/Users/Admin/Documents/MVC_QLTTTA/Views/KhoaHoc/KhoaHoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY1xLaG9hSG9jLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/MVC_QLTTTA/Views/KhoaHoc/_ThemKhoaHoc.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY1xfVGhlbUtob2FIb2MuY3NodG1s
+[C:/Users/Admin/Documents/MVC_QLTTTA/Views/KhoaHoc/ThemKhoaHoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY1xUaGVtS2hvYUhvYy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/MVC_QLTTTA/Views/LopHoc/_LopHoc.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXF9Mb3BIb2MuY3NodG1s
+[C:/Users/Admin/Documents/MVC_QLTTTA/Views/LopHoc/LopHoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXExvcEhvYy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Documents/MVC_QLTTTA/Views/Shared/Error.cshtml]

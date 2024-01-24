@@ -1,12 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MVC_Core_Quan_Ly_Trung_Tam_TA.Models;
 
 namespace MVC_Core_Quan_Ly_Trung_Tam_TA.Controllers
 {
     public class HocVienController : Controller
     {
-        public IActionResult _HocVien(int id)
+        public IActionResult HocVien(int id)
         {
-            return View();
+            var items = new HocVienHelper().getHocVienItems();
+            return View(items);
         }
     }
 }
